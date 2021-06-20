@@ -12,4 +12,4 @@ To start the project you need the following programs:
 -  backup-2021-06-20T10-57-28.tar.gz
 
 # Acknowledgment
-Mom, thank you so much for the love and the support you gave me
+Mom, thank you so much for the love and the support you gave me.
